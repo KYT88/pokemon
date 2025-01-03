@@ -137,9 +137,4 @@ main {
     }
 }
 
-@media (min-width: 1024px) {
-    *{
-        align-items: center;
-        width:100%;
-    }
 }
