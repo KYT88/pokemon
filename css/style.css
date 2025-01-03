@@ -16,6 +16,7 @@
 body {
     width: 100%;
     background-color: hsl(40, 6%, 85%);
+      margin-top: 2.5rem;
 }
 
 .title {
