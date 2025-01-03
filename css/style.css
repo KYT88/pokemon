@@ -16,7 +16,7 @@
 body {
     width: 100%;
     background-color: hsl(40, 6%, 85%);
-    margin-top: 2.5rem;
+    margin-top: 1.5rem;
 }
 
 .title {
@@ -31,15 +31,15 @@ body {
     text-align: center;
 }
 .title h1 {
-    font-size: 64px; 
+    font-size: 41px; 
 }
 .title h3 {
-    font-size: 31px; 
+    font-size: 16px; 
     margin-bottom: 3.5rem;
 }
 
 div {
-    margin-top: 1rem;
+    margin-top: 0.5rem;
     display: flex;
     justify-content: center;
 }
@@ -49,7 +49,6 @@ div {
     justify-content: center;
     width: 100%;
     height: auto;
-    font-size: 50px;
     }
 
 
@@ -71,25 +70,25 @@ div {
 }
 .knop::placeholder{
     color: #ffcb05;
-    font-size: 31px; 
+    font-size: 20px; 
 }
 
 .button .knop {
-    height: 5rem;
+    height: 3rem;
     width: 60%; 
     font-size: 30px; 
     font-family: sans-serif;
-    font-size: 41px;
     border: none;
     margin-top: 2rem;
     margin-bottom: 1rem; 
+    align-items: center;
 }
 
 .button1 button {
-    margin-top: 1rem;
-    height: 16rem; 
-    width: 16rem;
-    font-size: 31px;
+    margin-top: 0.5rem;
+    height: 7.5rem; 
+    width: 7.5rem;
+    font-size: 18.5px;
     background-color: red;
     border-radius: 50%;
     border: none;
@@ -109,9 +108,9 @@ main {
 }
 
 .pic {
-    margin-top: 1rem;
-    height: 450px; 
-    width: 450px; 
+    margin-top: 0.5rem;
+    height: 240px; 
+    width: auto; 
     background-image: linear-gradient(to bottom right, #fc00ff, #00dbde);
     border: 5px solid azure;
     box-shadow: 5px 5px 3px #aaaaaa;
