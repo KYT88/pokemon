@@ -58,6 +58,9 @@ div {
     width: 100%;
     height: auto;
 }
+.knop{
+    color: aliceblue;
+}
 
 .button .knop {
     height: 3rem;
