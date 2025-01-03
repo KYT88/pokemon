@@ -29,6 +29,7 @@ body {
     height: auto;
     width: 100%;
     text-align: center;
+    margin-bottom: 2rem;
 }
 .title h1 {
     font-size: 32px; 
