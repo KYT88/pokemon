@@ -138,7 +138,9 @@ main {
 }
 
 @media (min-width: 1024px) {
+    
     body {
-        width: 50vw;
+        align-items: center;
+        width: 100%;
     }
 }
