@@ -94,8 +94,8 @@ main {
 }
 
 .pic {
-    height: 200px; 
-    width: 150px; 
+    height: 250px; 
+    width: 250px; 
     background-image: linear-gradient(to bottom right, #fc00ff, #00dbde);
     border: 5px solid azure;
     box-shadow: 5px 5px 3px #aaaaaa;
