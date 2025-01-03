@@ -32,7 +32,6 @@ body {
 }
 .title h1 {
     font-size: 32px; 
-    margin-bottom: -1rem;
 }
 .title h3 {
     font-size: 18px; 
@@ -148,7 +147,7 @@ main {
     }
 
     .title h1 {
-        margin-bottom: -5rem;
+        margin-bottom: 5rem;
     }
     .title h3 {
         margin-bottom: 3.5rem;
