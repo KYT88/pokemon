@@ -16,12 +16,12 @@
 body {
     width: 100%;
     background-color: hsl(40, 6%, 85%);
-      margin-top: 2.5rem;
+    margin-top: 2.5rem;
 }
 
 .title {
-    margin: 0;
-    padding: 0;
+    margin: 0%;
+    padding: 0%;
     display: flex;
     justify-content: center;
     flex-direction: column;
@@ -52,15 +52,15 @@ div {
     height: auto;
     flex-wrap: wrap; 
 }
+.knop{
+    color: aliceblue;
+}
 
 .button1 {
     display: flex;
     justify-content: center;
     width: 100%;
     height: auto;
-}
-.knop{
-    color: aliceblue;
 }
 
 .button .knop {
