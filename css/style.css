@@ -29,13 +29,14 @@ body {
     height: auto;
     width: 100%;
     text-align: center;
-    margin-bottom: 2rem;
 }
 .title h1 {
     font-size: 32px; 
+    margin-bottom: -5rem;
 }
 .title h3 {
     font-size: 18px; 
+    margin-bottom: 3.5rem;
 }
 
 div {
@@ -105,6 +106,7 @@ main {
 }
 
 .pic {
+    margin-top: 1rem;
     height: 250px; 
     width: 250px; 
     background-image: linear-gradient(to bottom right, #fc00ff, #00dbde);
